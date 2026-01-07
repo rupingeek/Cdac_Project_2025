@@ -3,7 +3,7 @@
 A production-style predictive maintenance system designed to monitor machine usage, predict maintenance requirements, and manage the complete maintenance lifecycle using real-world industrial logic.
 This project demonstrates end-to-end full-stack development, backend business logic, role-based access control, and data-driven decision making.
 
-🔑 Key Highlights (Recruiter Scan Section)
+🔑 Key Highlights
 
 1.Built a full-stack predictive maintenance application using Spring Boot, React, and MySQL
 2.Implemented usage-based maintenance prediction using configurable threshold hours
