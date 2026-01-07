@@ -5,14 +5,7 @@ This project demonstrates end-to-end full-stack development, backend business lo
 
 🔑 Key Highlights
 
-1.Built a full-stack predictive maintenance application using Spring Boot, React, and MySQL
-2.Implemented usage-based maintenance prediction using configurable threshold hours
-3.Designed a complete maintenance lifecycle (OK → MAINTENANCE_DUE → COMPLETED → OK)
-4.Added role-based access control (Admin / User)
-5.Developed RESTful APIs with layered architecture (Controller → Service → Repository)
-6.Implemented real-time dashboard visualizations using Chart.js
-7.Ensured data integrity with audit-ready maintenance history
-8.Optimized backend logic for performance and scalability
+Built a full-stack predictive maintenance application using Spring Boot, React, and MySQL, implementing usage-based maintenance prediction through configurable threshold hours. Designed and implemented a complete maintenance lifecycle (OK → MAINTENANCE_DUE → COMPLETED → OK) with role-based access control for Admin and User roles. Developed RESTful APIs following a layered architecture (Controller → Service → Repository) and integrated real-time dashboard visualizations using Chart.js. Ensured data integrity and traceability through an audit-ready maintenance history while optimizing backend logic for performance, scalability, and real-world industrial workflows.
 
 🧠 Problem Statement
 
